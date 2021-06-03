@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders, rules, and instruction to be observed by the Muster-Master General and Cleark of the Checques, the Comptroller of the Musters and Checques and commissiaries of the Musters of His Majesties army and forces in Ireland, and all others whom the same doth or shall in any way concern, for the better preventing of any deceipts that may be practised in the army, and to render the same full and effectuall for His Majesties service / by The Lord Lieutenant General, and General Governour of Ireland.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09295</idno><idno type="EEBO-CITATION">61297042</idno>
+  <idno type="VID">180589</idno>
+  <idno type="EEBO-PROQUEST">2248523574</idno>
+  
+            <idno type="STC">Wing I426B</idno>
+            <idno type="STC">ESTC R178435</idno>
+            <idno type="OCLC">61297042</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180589)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2835:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders, rules, and instruction to be observed by the Muster-Master General and Cleark of the Checques, the Comptroller of the Musters and Checques and commissiaries of the Musters of His Majesties army and forces in Ireland, and all others whom the same doth or shall in any way concern, for the better preventing of any deceipts that may be practised in the army, and to render the same full and effectuall for His Majesties service / by The Lord Lieutenant General, and General Governour of Ireland.</title>
+                  <author>England and Wales. Army.</author>
+                  <author>Ford, Henry, Sir, 1619?-1684.</author>
+                  <author>Ireland. Lord Lieutenant (1672-1677 : Essex).</author>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II).</author>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Tooke, Printer to the Kings Most Excellent  Majesty and are to be sold by Joseph Wilde,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Lord Lieutenant General and general commander of Ireland = Arthur, Earl of Essex.</note>
+                  <note>Dated at end: "Given at His Majesties castle of Dublin, the 21st day of September 1672 --Hen. Ford."</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Regulations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180589:1"/>
+            <pb facs="tcp:180589:1"/>
+            <p>
+               <hi>Orders, Rules, AND INSTRUCTIONS</hi> To be observed by the Muster-master Gene<g ref="char:EOLhyphen"/>ral, and Cleark of the Checques, the Comp<g ref="char:EOLhyphen"/>troller of the Musters and Checques, and Commissaries of the Musters of His Ma<g ref="char:EOLhyphen"/>jesties Army and Forces in <hi>Ireland,</hi> and all others whom the same doth or shall in any way concern, for the better prevent<g ref="char:EOLhyphen"/>ing of any deceipts that may be practised in the Army, and to render the same full and effectuall for His Majesties Service. <hi>BY THE</hi> Lord Lieutenant General, and General Governour of <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>Dublin, Printed by</hi> Benjamin Tooke, <hi>Printer to the Kings Most Excellent MAJESTY; And are to be Sold by</hi> Joseph Wilde <hi>Book-seller in</hi> Castle-street, <hi>1672.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="military_orders">
+            <pb facs="tcp:180589:2"/>
+            <pb n="3" facs="tcp:180589:2"/>
+            <head>Orders, Rules, AND INSTRUCTIONS BY THE <hi>Lord Lieutenant General, and General Governour of</hi> Ireland.</head>
+            <opener>
+               <signed>ESSEX.</signed>
+            </opener>
+            <div n="1" type="order">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Muster-master General by himself and his Deputies, are to muster all the Guards of Horse and Foot, and all the Troops and Companies of His Majesties Army, Officers, Ministers, and Artificers of the Train of Artillery
+<pb n="4" facs="tcp:180589:3"/> within this Kingdom of <hi>Ireland,</hi> every three moneths at least, or as often as We, or in our absence the Deputy of this Kingdom shall think fit.</p>
+            </div>
+            <div n="2" type="order">
+               <head>II.</head>
+               <p>The Deputy Muster-masters, who are appointed to muster the Guards, Troops and Companies, and Train of Artillery as aforesaid, in their several Garisons or Quarters, are not to give notice of their purpose so to do, until late in the Evening, and then they are to give notice unto the Governour or Officer, commanding in chief the said Garison or Quarter, who is thereupon to have in a readiness the Troops or Companies early next morn<g ref="char:EOLhyphen"/>ing, every Officer and Souldier in his pro<g ref="char:EOLhyphen"/>per Arms and Furniture, at the usual and accustomed place, or such other place as the Deputy Muster-master shall appoint. Where the Captain or chief Officer com<g ref="char:EOLhyphen"/>manding of each Troop and Company,
+<pb n="5" facs="tcp:180589:3"/> is to have in readiness three muster-Rolls, containing the names of the Officers, and Souldiers fairly written alphabetically, ac<g ref="char:EOLhyphen"/>cording to the Sirnames as it is now usual, and parted by lines into distinct Columes, each of which shall mention the age, place of Birth, Complection, or time of en<g ref="char:EOLhyphen"/>trance into that Troop or Company of each Souldier, and then the Deputy Mu<g ref="char:EOLhyphen"/>ster-master, before he proceed to muster the Troop or Company, shall take an ac<g ref="char:EOLhyphen"/>count of the Ranks and Files of each Troop and Company, and after he has so numbred them, shall call the Officers and Souldiers particularly, placing a Cypher before their names, signifying their being present, and if any be absent, sick, dead, discharged, or run away, they are to be written so upon their names; And after the Roll is so called, the Deputy Muster-master is to count the Ranks and Files a<g ref="char:EOLhyphen"/>gain, that so he may be assured there is not any wrong done by the Officers in causing
+<pb n="6" facs="tcp:180589:4"/> Souldiers to be mustered twice, or mistake on his own part, by making more or less than he ought, and that such men as are to be entertained, that muster in the Roomes of any dead, discharged, or run away, may be entred for that muster at the latter end of the Roll, and not brought into the alphabet until the next muster. After the muster, the Deputy Muster-master is to close the Rolls, with the Officers after the usual manner, two Rolls to be signed by the Captain and all Commissioned Offi<g ref="char:EOLhyphen"/>cers present, which are to be delivered to the Deputy Muster-master, to be by him delivered to the Muster-master General, and the Comptroller of the musters, ac<g ref="char:EOLhyphen"/>cording to which muster Rolls, Warrants are to be drawn for their pay, of which the Comptroller, or his Deputy is to take notice; And before any Warrant be offe<g ref="char:EOLhyphen"/>red, the Comptroller is to examine and Comptrol the same, and to attest them for Testimony, that neither His Majesty, nor
+<pb n="7" facs="tcp:180589:4"/> the Souldiers be wronged in the payments, and the other Roll is to be signed by the Deputy Muster-master, which is to be de<g ref="char:EOLhyphen"/>livered to the Captain, or chief Officer present with the Troop or Company, to be by him produced at the next muster for an Examining Roll, to the end if any Souldiers be wanting, it may be known what is become of them, whether dead, discharged, or run away; And that there<g ref="char:EOLhyphen"/>by the Muster-master General, or the Comptroller, may be able to render an ac<g ref="char:EOLhyphen"/>count to Us from time to time, of such Souldiers as are received into any Troop or Company in the Army, and those like<g ref="char:EOLhyphen"/>wise that go forth.</p>
+            </div>
+            <div n="3" type="order">
+               <head>III.</head>
+               <p>The Muster-master General and his Deputies, are not to permit any Officer or Souldier in the Army, to pass muster, unless they shall produce a Certificate un<g ref="char:EOLhyphen"/>der the hand of the Bishop of the Dio<g ref="char:EOLhyphen"/>cess,
+<pb n="8" facs="tcp:180589:5"/> upon a Certificate made to him un<g ref="char:EOLhyphen"/>der the hand and seal of the lawful Mini<g ref="char:EOLhyphen"/>ster of the Parish wherein they are Quar<g ref="char:EOLhyphen"/>tered or Garrisoned; That they had re<g ref="char:EOLhyphen"/>ceived the Blessed Sacrament of the Holy Communion, according to the Discipline of the Church of <hi>Ireland,</hi> the <hi>Easter</hi> or <hi>Christmas</hi> next preceeding the said muster, and this to be done once every year.</p>
+            </div>
+            <div n="4" type="order">
+               <head>IV.</head>
+               <p>No Captain shall present at the muster, any Officer or Souldier to be absent by Licence, except the same be under our Hand, or the Hand of the Deputy of this Kingdom in Our absence; which Licence is to be entred at the Muster-master Gene<g ref="char:EOLhyphen"/>rals, and also at the Comptrollers Office, for which entring of every such Licence in the said Offices the Muster-master Gene<g ref="char:EOLhyphen"/>ral, and the Comptroller, or the Deputies are to take and receive of every Commis<g ref="char:EOLhyphen"/>sioned Officer two shillings and six pence
+<pb n="9" facs="tcp:180589:5"/> each, and the time limited set down on the muster Roll, and if any that are Licenced to go out of this Kingdom, return not within the time limited, then they are to be checqued, except they produce a Cer<g ref="char:EOLhyphen"/>tificate or Testimonial from the Mayor, or other chief Officer of the Port from whence they shall ship themselves, that they were ready to come, but were stayed by the casualty of contrary winds or wea<g ref="char:EOLhyphen"/>ther, or for want of passage, or by sickness. And in case any Officer or Souldier, who is Licenced to be absent from his duty within this Kingdom, out-stay the time Limited, then his Pay to be checqued for such time, and the checque not to be taken off, but by especial Order in writing from Us, or in our absence the Deputy of this Kingdom of which the Muster-master General and Comptroller are to take no<g ref="char:EOLhyphen"/>tice.</p>
+            </div>
+            <div n="5" type="order">
+               <pb n="10" facs="tcp:180589:6"/>
+               <head>V.</head>
+               <p>If any Officer or Souldier be absent from his muster, then he is to be returned absent, and loose the benefit of such muster, unless it be in case of sickness, which is to appear by view of the Deputy Muster-master, or by authentick certificate if the Person sick be far distant, or that they have especial Licence from Us, or the Deputy of this Kingdom in Our absence, and entred as aforesaid.</p>
+            </div>
+            <div n="6" type="order">
+               <head>VI.</head>
+               <p>No Commissioned Officer shall pass muster, till he first produce his Commissi<g ref="char:EOLhyphen"/>on to the Deputy Muster-master, and the same entred in the Muster-master Generals and the Comptrollers Office, to the end he may receive his Pay accordingly; And that the Muster-master General and the Comptroller, may the better render an ac<g ref="char:EOLhyphen"/>count unto Us, or in Our absence to the
+<pb n="11" facs="tcp:180589:6"/> Deputy of this Kingdom, of all the Commissioned Officers of the Army from time to time, as the same shall be requi<g ref="char:EOLhyphen"/>red.</p>
+            </div>
+            <div n="7" type="order">
+               <head>VII.</head>
+               <p>No Captain, or other Officer shall give Licence to any Private Souldier under his Command, to be absent above fourteen dayes, and no such Licence to be of force, if any Souldier be absent at muster.</p>
+            </div>
+            <div n="8" type="order">
+               <head>VIII.</head>
+               <p>If any Officer or Souldier, be at any time taken Prisoner, then upon attestation of the Captain, or other Officer Com<g ref="char:EOLhyphen"/>manding the Troop or Company, the said Prisoner is to be allowed on the musters during his Imprisonment.</p>
+            </div>
+            <div n="9" type="order">
+               <head>IX.</head>
+               <p>No Officer shall Entertain any person in the Room of any Souldier dead, dis<g ref="char:EOLhyphen"/>charged,
+<pb n="12" facs="tcp:180589:7"/> or run away out of any Troop or Company, till the next muster day, and his Pay to commence from that day for<g ref="char:EOLhyphen"/>ward, and not otherwise, and if any Offi<g ref="char:EOLhyphen"/>cer or Souldier be returned dead, then he is to be allowed pay to the day of his death, which is to appear by authentick Certificate.</p>
+            </div>
+            <div n="10" type="order">
+               <head>X.</head>
+               <p>Taking into Our consideration the e<g ref="char:EOLhyphen"/>vil consequences of Officers discharging their Souldiers irregularly, no Officer shall from henceforth discharge any Souldier mustered in his Troop or Company, un<g ref="char:EOLhyphen"/>till such Souldier be discharged by a Court-marshal, or by order in Writing from Us, or the Deputy of this Kingdom in Our absence, or by the Souldiers consent at muster, upon pain of being Cashiered, nor shall the Officers of the musters allow any new man in the place, of any that are not regularly discharged.</p>
+            </div>
+            <div n="11" type="order">
+               <pb n="13" facs="tcp:180589:7"/>
+               <head>XI.</head>
+               <p>No Captain or other Officer of the Army, shall in the tender or presentment of the musters, use any fraud, practice or deceit, whereby the Muster-master Gene<g ref="char:EOLhyphen"/>ral or his Deputies, or the other Officers of the musters maybe misled, mistaken, or prevented of the due understanding of the true Estate of that Company or Troop, upon pain of loss of his place, and such other Ignominious punishment, as by a Marshal-court shall be thought fit.</p>
+            </div>
+            <div n="12" type="order">
+               <head>XII.</head>
+               <p>Every Officer and Souldier of the Army, and Officers, Ministers, and Ar<g ref="char:EOLhyphen"/>tificers of the Train of Artillery, shall take the Oathes of Allegiance and Supre<g ref="char:EOLhyphen"/>macy, or else not be allowed on the musters.</p>
+            </div>
+            <div n="13" type="order">
+               <pb n="14" facs="tcp:180589:8"/>
+               <head>XIII.</head>
+               <p>No Officer shall make contract or a<g ref="char:EOLhyphen"/>greement with any of the Souldiers of the Army, for less pay then is allowed them by His Majesties Establishment, nor take any money or Security of money for their admittance into the Army; To which end the Muster-master General and his Deputies, and the Comptroller and his Deputy, are hereby strictly required to use all means possible to inquire what Officers do make any such contract, or take money as aforesaid, who being satisfi<g ref="char:EOLhyphen"/>ed therein, are forthwith to inform Us, or in Our absence the Deputy of this King<g ref="char:EOLhyphen"/>dom of the same; and such Officers and Souldiers so offending, shall forthwith be discharged the Army, and suffer such o<g ref="char:EOLhyphen"/>ther punishment as shall be thought fit by a Court-marshal. And if any Captain shall detain from any Souldiers their Pay, or any part thereof, when he hath received
+<pb n="15" facs="tcp:180589:8"/> the same, by the space of three dayes, or shall not <hi>bona fide,</hi> pay the same without any Reservation or Engagement for re<g ref="char:EOLhyphen"/>ceiving the same back, or any thing in liew thereof, such Captain or other Officer shall be absolutely Cashiered from his Com<g ref="char:EOLhyphen"/>mand.</p>
+            </div>
+            <div n="14" type="order">
+               <head>XIV.</head>
+               <p>No Souldier shall be suffered to pass muster upon a borrowed Horse, or with borrowed Arms or Furniture, and his Horse shall be serviceable, and not under Fourteen handful high, and worth at least twelve pounds.</p>
+            </div>
+            <div n="15" type="order">
+               <head>XV.</head>
+               <p>The Officers being supplyed with ne<g ref="char:EOLhyphen"/>cessary and convenient Arms, and Furni<g ref="char:EOLhyphen"/>ture belonging to their several Troops and Companies, the Muster-master General and his Deputies, and the Comptroller and his Deputies, are Required to take
+<pb n="16" facs="tcp:180589:9"/> especial care at the musters taken by them, that the Souldiers Arms be well fixed, and that all the Fire-arms of Foot be of one Bore, and if they shall find any Souldiers Arms unfixed on the muster day, they shall mark the same on such Souldiers name in the muster Roll, and the said Souldiers shall be chequed for every such defective Arms, the Cheques following, <hi>viz.</hi>
+               </p>
+               <q>
+                  <l>For a Sword every moneth two dayes Pay.</l>
+                  <l>The like for Pikes, Musquets, Bandaleers,</l>
+                  <l>Pistols, Carbines and Holster s</l>
+               </q>
+            </div>
+            <div n="16" type="order">
+               <head>XVI.</head>
+               <p>No Souldier that is an Inhabitant of any Town or Garrison, and a Tradesman (being well able to live of himself) shall be suffered to pass muster, unless he will reside constantly in his Garrison, and be fit and ready on all occasions for Service to be drawn into the field, and be well
+<pb n="17" facs="tcp:180589:9"/> Trained in the Exercise of his Arms.</p>
+            </div>
+            <div n="17" type="order">
+               <head>XVII.</head>
+               <p>No Officer shall muster a man false up<g ref="char:EOLhyphen"/>on pain of Cashiering.</p>
+            </div>
+            <div n="18" type="order">
+               <head>XVIII.</head>
+               <p>No Souldier in Muster shall answer for another, or muster by a false name, up<g ref="char:EOLhyphen"/>on pain of death, and the Officer that presents such Souldier to be Cashiered.</p>
+            </div>
+            <div n="19" type="order">
+               <head>XIX.</head>
+               <p>The Deputy Muster-masters shall have a sufficient Convoy from Garrison to Garrison, whilst they are mustering, and so shall the Comptroller, or whom he shall appoint as his Deputies or Substitutes.</p>
+            </div>
+            <div n="20" type="order">
+               <head>XX.</head>
+               <p>No Officer or Souldie shall presume to taunt, revile or pick a quarrel, with any of the Deputy Muster-masters, or the
+<pb n="18" facs="tcp:180589:10"/> Comptrollers Deputies, but shall quietly suffer him or them to examine, demand or require any Souldiers name, the Country from whence he came, and time of his be<g ref="char:EOLhyphen"/>ing in the Kingdom, and to take any note or mark of the Souldiers at his or their pleasure; and if any Officer or Souldier shall offend herein, severe punishment shall be inflicted on him or them as oppugnors of His Majesties Authority, and breakers of Our Orders and Instructions, as we shall think fit.</p>
+            </div>
+            <div n="21" type="order">
+               <head>XXI.</head>
+               <p>The Muster-master General shall from time to time, alter and change his Depu<g ref="char:EOLhyphen"/>ties, to muster in each Circuits and Pre<g ref="char:EOLhyphen"/>cincts, as he in his Discretion shall think fit, and not to permit them to muster in one and the same Precinct constantly.</p>
+            </div>
+            <div n="22" type="order">
+               <head>XXII.</head>
+               <p>If any of the Deputy Muster-masters,
+<pb n="19" facs="tcp:180589:10"/> or other Officers of the musters, shall at any time abuse the Trust committed to his care, by conniving with the Officers to make a false muster, or taking from any Officer or Souldier any Bribe, Gift, Re<g ref="char:EOLhyphen"/>ward or Present whatsoever, upon account of mustering, he shall forfeit his Imploy<g ref="char:EOLhyphen"/>ment, and suffer such further punishment as shall be thought fit.</p>
+            </div>
+            <div n="23" type="order">
+               <head>XXIII.</head>
+               <p>None but effective duty men that re<g ref="char:EOLhyphen"/>ceive His Majesties full pay, shall be allow<g ref="char:EOLhyphen"/>ed on any muster, nor any man absent without leave from Us, or the Deputy of this Kingdom in Our absence, and none under the age of Seventeen years, shall be allowed on any muster on any pretence whatsoever.</p>
+            </div>
+            <div n="24" type="order">
+               <head>XXIV.</head>
+               <p>The name of the Clerk of every Troop and Company is to be mentioned
+<pb n="20" facs="tcp:180589:11"/> in the margent of every muster Roll, as also the Servants, which We have thought fit to allow to the several Commissioned Officers.</p>
+            </div>
+            <div n="25" type="order">
+               <head>XXV.</head>
+               <p>The Comptroller, his Deputy or Sub<g ref="char:EOLhyphen"/>stitute shall have free Egress and Regress into the Muster-master-Generals Office, to the end he may take Notes or Copies, and observe how they do their duty; and that no mistake may happen by having the management in one Office, We think fit that the Comptroller his Deputy or Substitute, shall also sign the Warrants for Pay, before they be offered unto, or signed by Us, to which end they shall be sent to him.</p>
+            </div>
+            <div n="26" type="order">
+               <head>XXVI.</head>
+               <p>The Comptroller of the musters, or his Deputy or Substitutes by him ap<g ref="char:EOLhyphen"/>pointed, shall use all diligence, industry and
+<pb n="21" facs="tcp:180589:11"/> endeavours, to keep His Majesties Army in this Kingdom full and effectual for His Majesties Service, not onely at the dayes of mustering, but also at other times, when the Officers of the musters are not expected, by sending out his Deputies or Substitutes when he shall think it necessa<g ref="char:EOLhyphen"/>ry, and most for His Majesties Service, to the end that the constant expectation of being mustered, may keep them to the du<g ref="char:EOLhyphen"/>ty expected from them.</p>
+            </div>
+            <div n="27" type="order">
+               <head>XXVII.</head>
+               <p>All Commissions both of Horse and Foot, and all Patents, Orders, Rules and Directions for taking off Cheques, and all other things of like nature relating to the Army and Forces, are to be entred at the Comptrollers Office, as well as at the Muster-masters, of which all persons con<g ref="char:EOLhyphen"/>cerned are to take notice.</p>
+            </div>
+            <div n="28" type="order">
+               <pb n="22" facs="tcp:180589:12"/>
+               <head>XXVIII.</head>
+               <p>The Muster-master General, and his Deputy shall within <gap reason="blank" resp="#oxf" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> dayes after the return of every muster, give unto Us a true account and State of His Ma<g ref="char:EOLhyphen"/>jesties Army, and the Cheques imposed thereon, and that no mistake may happen, the Comptroller of the musters or his De<g ref="char:EOLhyphen"/>puty shall attest the same.</p>
+            </div>
+            <div n="29" type="order">
+               <head>XXIX.</head>
+               <p>For the better putting in Execution the aforesaid Orders and Instructions, the Muster-master General, and his several De<g ref="char:EOLhyphen"/>puties within this Kingdom, in discharge of the great Trust reposed in them, are required with all care and diligence, strictly to observe the same; and if any of the said Deputy muster-masters in any measure o<g ref="char:EOLhyphen"/>mit, or neglect to put in Execution the Rules and Directions before exprest, he shall be dismissed from the said Imploy<g ref="char:EOLhyphen"/>ment,
+<pb n="23" facs="tcp:180589:12"/> and suffer such other punishment as We shall think fit.</p>
+               <p>And We require all the Officers of the Guards, and other the Officers of the Ar<g ref="char:EOLhyphen"/>my, and Train of Artillery, in this His Majesties Kingdom, to take due notice hereof, and to yield due obedience there<g ref="char:EOLhyphen"/>unto, as they will answer the contrary at their perils.</p>
+               <closer>
+                  <dateline>Given at His Majesties Castle of <hi>Dublin,</hi>
+                     <date>the 21th day of <hi>September</hi> 1672.</date>
+                  </dateline>
+                  <signed>Hen: Ford.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
